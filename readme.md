@@ -6,9 +6,5 @@
 
 **ー INDEX ー**
 
-1.VScodeをVisual Studio LiveShareで共同編集してみよう
-
-   https://github.com/algyan/vscode-tips/blob/master/how-to-use-liveshare.md
-   
-
-2.（乞うご期待）
+1. [VScodeをVisual Studio LiveShareで共同編集してみよう](how-to-use-liveshare.md)
+2. （乞うご期待）
